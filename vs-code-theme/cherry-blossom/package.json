@@ -1,0 +1,21 @@
+{
+  "name": "custom-1",
+  "displayName": "custom-1",
+  "description": "a color theme that maches my desktop",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cherry-blossom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cherry-blossom-color-theme.json"
+      }
+    ]
+  }
+}
