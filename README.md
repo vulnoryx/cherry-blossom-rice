@@ -1,6 +1,7 @@
 # cherry-blossom-rice
 
 dependencies:
+
 -i3
 
 -polybar
